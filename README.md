@@ -1,2 +1,3 @@
-# events-for-friends
-Events for friends application, in which you can manage the events you want to do with your friends!
+# Events for Friends
+
+Events for Friends is an application which allows you to manage the different events you want to do with your friends!
